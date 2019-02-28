@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
+  "homepage": "https://mikip85.github.io/Calorie_tracker/",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
   },
   "author": "",
   "license": "ISC",
